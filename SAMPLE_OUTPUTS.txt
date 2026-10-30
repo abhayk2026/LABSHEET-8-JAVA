@@ -1,0 +1,55 @@
+MCA203P Lab Sheet 08 - ACTUAL SAMPLE OUTPUTS
+Generated from successful javac/java runs. Environment-dependent output may differ.
+========================================================================
+
+>>> java StudentBean
+ID: 101, Name: Aarav, Grade: 89.5
+
+>>> java RectangleBean
+Area: 24.0
+Perimeter: 20.0
+
+>>> java EmployeeBean
+Restored: 12, Isha, 48000.00
+
+>>> java DateBean
+Today's date: 2026-10-29
+
+>>> java UserBean
+Password matches? true
+
+>>> java AccountBean
+balance changed: 0.0 -> 5000.0
+
+>>> java Q07_AccountChangeDemo
+Event property: balance
+Old balance: 0.0
+New balance: 1000.0
+Event property: balance
+Old balance: 1000.0
+New balance: 1200.0
+Final balance: 1200.0
+
+>>> java Q08_StudentIntrospector
+PROPERTIES:
+- grade
+- id
+- name
+METHODS:
+getGrade
+getId
+getName
+main
+setGrade
+setId
+setName
+
+>>> java CarBean
+Maruti Suzuki Swift (2025)
+
+>>> java CircleBean
+Area: 28.27, Circumference: 18.85
+
+Server/client exercises: run in separate terminals; see README.
+WebReader / FileDownloader: need a live HTTP(S) connection and valid remote URL.
+Q11_HostInfo: hostname and IP depend on your computer.
